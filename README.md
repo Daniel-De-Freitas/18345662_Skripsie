@@ -1,11 +1,10 @@
-# 18345662_Skripsie
-Skripsie_Project_File
-PROJECT FILE NOT YET UPLOADED. THE CONTENTS ARE DRAFT VERSIONS.
+# Robust object tracking using neural network based instance segmentation
+DETECT contains a jupyter notebook used to perform instance segmentation on a video and save the results.
 
-DETECT contains a jupyter notebook used to perform instance segmentation on a video and save the results both qualitatively and quantatively.
-The various tracking algorithms developed are then provided i.e. Using the Gaussian Mixture Model, the Hungarian algorith, and then the Hungarian algorithm including information regarding the area of an object in terms of pixels.
+The various tracking algorithms developed are then provided i.e. Using the Gaussian Mixture Model and the Hungarian algorithm. Additional features are added in other models such as the amount of pixels an object occupies
 
 The requirements file is given and all the requirements must be installed before use.
+
 Visualise then allows the results to be visualised on each frame and the video stitched back together.
 
 An example output is given:
